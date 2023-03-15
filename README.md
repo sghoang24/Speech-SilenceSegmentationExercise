@@ -10,4 +10,4 @@ In each folder, it include .wav file and .lab file:
 
 To segment speech and silence of signal, I used STE (Short-Time Energy) feature to work in this exercise.
 
-I choose Logistic Regression to classify speech and silence into 2 classes based on STE feature
+I choosed Softmax Regression to classify speech and silence into 2 classes based on STE feature
